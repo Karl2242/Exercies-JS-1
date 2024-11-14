@@ -1,4 +1,4 @@
-import { maFonction } from "./lafonction.js";
+
 
 
 // let blabla = "caca"
@@ -39,4 +39,19 @@ import { maFonction } from "./lafonction.js";
 // premierChiffre = Math.trunc(premierChiffre)
 // deuxiemeChiffre = Math.trunc(deuxiemeChiffre)
 // alert(premierChiffre * deuxiemeChiffre)
+
+
+
+// let maPointure = prompt("quel est t'a pointure");
+// let dateDeNaissance = prompt("Quel est t'a date de naissance");
+
+// maPointure *= 2;
+// maPointure += 5;
+// maPointure *= 50;
+// maPointure = maPointure - dateDeNaissance;
+// maPointure += 1766;
+
+// console.log(maPointure);
+
+
 
