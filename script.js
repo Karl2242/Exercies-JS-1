@@ -3,13 +3,20 @@
 // alert(blabla)
 
 
-let lastName = "Jean "
+// let lastName = "Jean "
 
-let firstName = "Louis "
+// let firstName = "Louis "
 
-let city = "l'horme "
+// let city = "l'horme "
 
 
-alert("prenom : " + lastName + "Nom de famille " + firstName +
-    "Ville : " + city
-)
+// alert("prenom : " + lastName + "Nom de famille " + firstName +
+//     "Ville : " + city
+// )
+
+
+let prenom;
+
+prenom = prompt()
+alert("Bonjour " + prenom)
+
