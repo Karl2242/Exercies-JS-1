@@ -29,3 +29,10 @@
 
 // alert("bonjour " + prneom + nom + " tu viens de " + ville)
 
+
+let premierChiffre = prompt("Donne un chiffre")
+let deuxiemeChiffre = prompt("Donne un chiffre")
+
+premierChiffre = Math.trunc(premierChiffre)
+deuxiemeChiffre = Math.trunc(deuxiemeChiffre)
+alert(premierChiffre * deuxiemeChiffre)
