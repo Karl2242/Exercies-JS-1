@@ -55,3 +55,12 @@
 
 
 
+// let monAge = prompt("quel âge a tu ?")
+
+// if(monAge >= 18){
+//     alert("vous etes majeur")
+// } else{
+//     alert("tu es mineur")
+// }
+
+
