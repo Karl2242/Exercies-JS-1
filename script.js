@@ -15,8 +15,17 @@
 // )
 
 
-let prenom;
+// let prenom;
 
-prenom = prompt()
-alert("Bonjour " + prenom)
+// prenom = prompt()
+// alert("Bonjour " + prenom)
+
+
+// let prneom = prompt()
+
+// let nom = prompt()
+
+// let ville = prompt()
+
+// alert("bonjour " + prneom + nom + " tu viens de " + ville)
 
