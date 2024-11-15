@@ -64,18 +64,28 @@
 // }
 
 
-let monChiffre = prompt("Donne moi un chiffre")
-let stockage;
+// let monChiffre = prompt("Donne moi un chiffre")
+// let stockage;
 
 
-for(let i = 0; i <= 10; i = i + 1){
-stockage = monChiffre
+// for(let i = 0; i <= 10; i = i + 1){
+// stockage = monChiffre
 
-    console.log(monChiffre + " x " + i)
-monChiffre = monChiffre * i
-console.log(monChiffre)
+//     console.log(monChiffre + " x " + i)
+// monChiffre = monChiffre * i
+// console.log(monChiffre)
 
-monChiffre = stockage
+// monChiffre = stockage
 
-}
+// }
+
+
+// let tonMot = prompt()
+
+
+// for(let i = 0; i <= tonMot.length; i += 1){
+
+//     console.log(`${tonMot[i]} \n`)
+
+// }
 
