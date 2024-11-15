@@ -64,3 +64,18 @@
 // }
 
 
+let monChiffre = prompt("Donne moi un chiffre")
+let stockage;
+
+
+for(let i = 0; i <= 10; i = i + 1){
+stockage = monChiffre
+
+    console.log(monChiffre + " x " + i)
+monChiffre = monChiffre * i
+console.log(monChiffre)
+
+monChiffre = stockage
+
+}
+
