@@ -89,3 +89,21 @@
 
 // }
 
+
+// let leNombreMagique = 5
+
+// let userNumber = prompt("Saisi un chiffre entre 1 et 10")
+
+// if(userNumber > leNombreMagique){
+
+// console.log("le nombre que tu a choisi est superieur à " + leNombreMagique)
+// } else if(userNumber == leNombreMagique){
+
+//     console.log("le nombre que tu a choisi est égal à " + leNombreMagique)
+
+// }
+
+// if(userNumber < leNombreMagique){
+// console.log("le chiffre est inferieur")
+// }
+
