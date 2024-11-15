@@ -106,4 +106,18 @@
 // if(userNumber < leNombreMagique){
 // console.log("le chiffre est inferieur")
 // }
+// let chiffreutilisateur = prompt("donne ton chiffregui")
+
+// function laFonctionDuCarre(){
+
+// let result = chiffreutilisateur * 5
+// console.log(result)
+
+// return result;
+// }
+
+
+
+// laFonctionDuCarre()
+
 
